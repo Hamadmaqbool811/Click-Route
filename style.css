@@ -1,0 +1,99 @@
+h1{
+    align-items: center;
+    justify-content: center;
+    color: #1188f8;
+margin-left: 500px;
+}
+
+.favicon{
+    margin: 100px;
+position: absolute;
+top: 0;
+left: 300px ;
+    height: 200px;
+    width: 500px
+    border: solid rgba(rgba(4, 4, 19, 0), alpha);
+    border-radius: 1vh;
+}
+.download{
+      margin: 100px;
+    position: absolute;
+    top: 0;
+    left: 540px;
+    height: 200px;
+    width: 400px;
+    border: solid rgba(rgba(4, 4, 19, 0), alpha);
+    
+    border-radius: 1vh;}
+    header{
+        padding-left: 20px;
+    }
+    body{
+        
+        justify-content: center;
+        align-items: center;
+        
+        
+        background-color:( aqua blue);
+    }
+    .nav-bar{
+        
+    
+        align-items: center;
+            justify-content: center;
+            background-color: rgb(87, 48, 48);
+            border: blue;
+    border-radius: 10vh;
+    position: absolute;
+    top: 0;
+    left: 60;
+    padding: -5px ;
+    width: auto;
+        }
+        div{
+            margin-right: 40px;
+        }
+    .nav ul{
+        list-style:none;
+        margin: 0.1px;
+        margin-left: 0px;
+        padding: 0;
+        display: flex;
+        align-items: flex-end;
+    }
+    .nav{
+        left: 20px;
+    }
+    .nav ul li a{
+        display: block;
+        color: aqua;
+        text-decoration: none;
+        padding: 15px 20px;
+        transition: 0.3s;
+        align-items: center;
+        justify-content: center;
+        margin: 0.4px;
+
+    }
+   .nav ul li a:hover{
+        background-color: rgb(141, 13, 103);
+        border-radius: 11vh;
+        
+        
+
+        box-sizing: border-box;
+        
+        transition: 0.4ms;
+    }
+.nav{
+        position: relative;
+        top: 240px;
+        width: 1000px;
+        
+        height: 100px;right: 150px;
+    
+
+    }
+h1{
+    text-shadow: #1188f8;
+}
